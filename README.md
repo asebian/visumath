@@ -1,7 +1,7 @@
 ## visumath
-Interactive math visualisations with desmos's calculator.
+A collection of educational math visualizations in desmos graphing calculator.
 
-Please, rather bookmark this site than the desmos URLs since the latter will change on updates!
+Please, **rather bookmark this site than the desmos URLs** since the latter will change on updates!
 
 ### Vector sum
 
