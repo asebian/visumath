@@ -3,11 +3,11 @@ Interactive math visualisations with desmos's calculator.
 
 Please, rather bookmark this site than the desmos URLs since the latter will change on updates!
 
-### Adding vectors
+### Vector sum
 
-[https://www.desmos.com/calculator/2ivnlnvmkp](https://www.desmos.com/calculator/2ivnlnvmkp)
+[https://www.desmos.com/calculator/upihdggdcx](https://www.desmos.com/calculator/upihdggdcx)
 
-![adding vectors](img/vector_add.png)
+![vector sum](img/vector_sum.png)
 
 ### Scalar multiplication
 
@@ -16,7 +16,7 @@ Please, rather bookmark this site than the desmos URLs since the latter will cha
 ![scalar multiplication](img/scalar_mult.png)
 
 ### Line equation
-in standard form and how parametric, slope-intercept, and Hesse form get derived from it.
+in standard form and and derivation of parametric, slope-intercept, and Hesse forms.
   
 [https://www.desmos.com/calculator/dp1erx3rcf](https://www.desmos.com/calculator/dp1erx3rcf)
   
