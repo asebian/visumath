@@ -5,6 +5,6 @@ Please, rather bookmark this site than the desmos URLs since the latter will cha
 
 * Line equation in standard form and how parametric, slope-intercept, and Hesse form get derived from it.
   
-  [https://www.desmos.com/calculator/jyjdyvmksj](https://www.desmos.com/calculator/jyjdyvmksj)
+  [https://www.desmos.com/calculator/wdmtgifcoj](https://www.desmos.com/calculator/wdmtgifcoj)
   
   ![line equation standard form](img/line_standard_form.png)
