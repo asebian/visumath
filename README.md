@@ -9,6 +9,12 @@ Please, rather bookmark this site than the desmos URLs since the latter will cha
 
 ![adding vectors](img/vector_add.png)
 
+### Scalar multiplication
+
+[https://www.desmos.com/calculator/2vkz8blxb0](https://www.desmos.com/calculator/2vkz8blxb0)
+
+![scalar multiplication](img/scalar_mult.png)
+
 ### Line equation
 in standard form and how parametric, slope-intercept, and Hesse form get derived from it.
   
