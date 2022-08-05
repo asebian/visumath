@@ -21,3 +21,11 @@ in standard form and and derivation of parametric, slope-intercept, and Hesse fo
 [https://www.desmos.com/calculator/dp1erx3rcf](https://www.desmos.com/calculator/dp1erx3rcf)
   
 ![line equation standard form](img/line_standard_form.png)
+
+### Trigonometric functions
+
+and their derivatives and antiderivatives.
+
+[https://www.desmos.com/calculator/x8e2waa5lh](https://www.desmos.com/calculator/x8e2waa5lh)
+
+![trig-functions](img/trig_fnctns.png)
