@@ -29,3 +29,11 @@ and their derivatives and antiderivatives.
 [https://www.desmos.com/calculator/x8e2waa5lh](https://www.desmos.com/calculator/x8e2waa5lh)
 
 ![trig-functions](img/trig_fnctns.png)
+
+### Rotation in two dimensions
+
+2D-Rotation of canonical base vectors, coordinates, and line equations.
+
+[https://www.desmos.com/calculator/asemowbgkg](https://www.desmos.com/calculator/asemowbgkg)
+
+![rotation 2D](img/rotation_2D.png)
