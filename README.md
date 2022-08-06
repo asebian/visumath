@@ -46,6 +46,6 @@ and their derivatives and antiderivatives.
 
 ### Complex number arithmetic
 
-[https://www.desmos.com/calculator/nhvjfr7z1z](https://www.desmos.com/calculator/nhvjfr7z1z)
+[https://www.desmos.com/calculator/weecgwrm59](https://www.desmos.com/calculator/weecgwrm59)
 
 ![complex numbers](img/complex.png)
