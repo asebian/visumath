@@ -5,13 +5,13 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 
 ### Vector sum
 
-[https://www.desmos.com/calculator/upihdggdcx](https://www.desmos.com/calculator/upihdggdcx)
+[https://www.desmos.com/calculator/uuvcv338in](https://www.desmos.com/calculator/uuvcv338in)
 
 ![vector sum](img/vector_sum.png)
 
 ### Scalar multiplication
 
-[https://www.desmos.com/calculator/2vkz8blxb0](https://www.desmos.com/calculator/2vkz8blxb0)
+[https://www.desmos.com/calculator/dnyvphayhr](https://www.desmos.com/calculator/dnyvphayhr)
 
 ![scalar multiplication](img/scalar_mult.png)
 
@@ -26,7 +26,7 @@ in standard form and and derivation of parametric, slope-intercept, and Hesse fo
 
 and their derivatives and antiderivatives.
 
-[https://www.desmos.com/calculator/x8e2waa5lh](https://www.desmos.com/calculator/x8e2waa5lh)
+[https://www.desmos.com/calculator/kl5pwzxmmb](https://www.desmos.com/calculator/kl5pwzxmmb)
 
 ![trig-functions](img/trig_fnctns.png)
 
@@ -34,18 +34,18 @@ and their derivatives and antiderivatives.
 
 2D-Rotation of canonical base vectors, coordinates, and line equations.
 
-[https://www.desmos.com/calculator/jmshkynjo9](https://www.desmos.com/calculator/jmshkynjo9)
+[https://www.desmos.com/calculator/qdgc3qfhbv](https://www.desmos.com/calculator/qdgc3qfhbv)
 
 ![rotation 2D](img/rotation_2D.png)
 
 ### Natural logarithm and exponential function
 
-[https://www.desmos.com/calculator/niqrdjgohy](https://www.desmos.com/calculator/niqrdjgohy)
+[https://www.desmos.com/calculator/xon16hrqgg](https://www.desmos.com/calculator/xon16hrqgg)
 
 ![ln, exp](img/ln_exp.png)
 
 ### Complex number arithmetic
 
-[https://www.desmos.com/calculator/olgfcxbfcv](https://www.desmos.com/calculator/olgfcxbfcv)
+[https://www.desmos.com/calculator/nhvjfr7z1z](https://www.desmos.com/calculator/nhvjfr7z1z)
 
 ![complex numbers](img/complex.png)
