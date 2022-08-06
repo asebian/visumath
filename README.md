@@ -43,3 +43,9 @@ and their derivatives and antiderivatives.
 [https://www.desmos.com/calculator/niqrdjgohy](https://www.desmos.com/calculator/niqrdjgohy)
 
 ![ln, exp](img/ln_exp.png)
+
+### Complex number arithmetic
+
+[https://www.desmos.com/calculator/olgfcxbfcv](https://www.desmos.com/calculator/olgfcxbfcv)
+
+![complex numbers](img/complex.png)
