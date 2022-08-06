@@ -37,3 +37,9 @@ and their derivatives and antiderivatives.
 [https://www.desmos.com/calculator/jmshkynjo9](https://www.desmos.com/calculator/jmshkynjo9)
 
 ![rotation 2D](img/rotation_2D.png)
+
+### Natural logarithm and exponential function
+
+[https://www.desmos.com/calculator/niqrdjgohy](https://www.desmos.com/calculator/niqrdjgohy)
+
+![ln, exp](img/ln_exp.png)
