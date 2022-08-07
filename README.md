@@ -77,7 +77,7 @@ Two-dimesional real valued rotation of canonical base vectors, coordinates, and 
 
 ### Complex number arithmetic
 
-[https://www.desmos.com/calculator/weecgwrm59](https://www.desmos.com/calculator/weecgwrm59)
+[https://www.desmos.com/calculator/lp3jhertiy](https://www.desmos.com/calculator/lp3jhertiy)
 
 ![complex numbers](img/complex.png)
 
