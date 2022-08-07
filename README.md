@@ -1,5 +1,5 @@
 # visumath
-A collection of educational math visualizations in desmos graphing calculator.
+A (growing) collection of educational math visualizations in desmos graphing calculator.
 
 Please, **rather bookmark this site than the desmos URLs** since the latter will change on updates!
 
@@ -11,6 +11,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 2. [R2](#r2)
   * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
+  * [Inner product](#inner-product)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
 3. [C1](#c1)
@@ -21,8 +22,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 ## R1
 
 ### Trigonometric function graphs
-
-Real valued trigonometric functions and their derivatives and antiderivatives.
+Real valued trigonometric functions and their derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
 [https://www.desmos.com/calculator/kl5pwzxmmb](https://www.desmos.com/calculator/kl5pwzxmmb)
@@ -30,7 +30,6 @@ sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 ![trig-functions](img/trig_fnctns.png)
 
 ### ln, e, exp
-
 Natural logarithm, Euler number, and exponential function of real values.
 
 [https://www.desmos.com/calculator/xon16hrqgg](https://www.desmos.com/calculator/xon16hrqgg)
@@ -41,23 +40,27 @@ Natural logarithm, Euler number, and exponential function of real values.
 ## R2
 
 ### Vector addition
-
-Adding and subtracting two-dimentional real valued vectors.
+Adding and subtracting vectors.
 
 [https://www.desmos.com/calculator/blx95ejvti](https://www.desmos.com/calculator/blx95ejvti)
 
 ![vector sum](img/vector_sum.png)
 
 ### Scalar multiplication
-
-Scaling two-dimentional real valued vectors.
+Scaling vectors.
 
 [https://www.desmos.com/calculator/dnyvphayhr](https://www.desmos.com/calculator/dnyvphayhr)
 
 ![scalar multiplication](img/scalar_mult.png)
 
-### Line equations
+### Inner product
+Dot product
 
+[https://www.desmos.com/calculator/qwz8qgsrlm](https://www.desmos.com/calculator/qwz8qgsrlm)
+
+![inner product](img/inner_product.png)
+
+### Line equations
 in standard form and and derivation of parametric, slope-intercept, and Hesse forms.
   
 [https://www.desmos.com/calculator/dp1erx3rcf](https://www.desmos.com/calculator/dp1erx3rcf)
@@ -65,8 +68,7 @@ in standard form and and derivation of parametric, slope-intercept, and Hesse fo
 ![line equation standard form](img/line_standard_form.png)
 
 ### Rotation
-
-Two-dimesional real valued rotation of canonical base vectors, coordinates, and line equations.
+of canonical base vectors, coordinates, and line equations.
 
 [https://www.desmos.com/calculator/qdgc3qfhbv](https://www.desmos.com/calculator/qdgc3qfhbv)
 
@@ -82,8 +84,6 @@ Two-dimesional real valued rotation of canonical base vectors, coordinates, and 
 ![complex numbers](img/complex.png)
 
 ### Complex Hilbert space arithmetic
-
-Arithmetic of a one-dimensional complex hilbert space.
 
 [https://www.desmos.com/calculator/vzzsezqkzk](https://www.desmos.com/calculator/vzzsezqkzk)
 
