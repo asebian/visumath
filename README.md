@@ -44,7 +44,7 @@ Natural logarithm, Euler number, and exponential function of real values.
 
 Adding and subtracting two-dimentional real valued vectors.
 
-[https://www.desmos.com/calculator/uuvcv338in](https://www.desmos.com/calculator/uuvcv338in)
+[https://www.desmos.com/calculator/whrj1u1sjy](https://www.desmos.com/calculator/whrj1u1sjy)
 
 ![vector sum](img/vector_sum.png)
 
