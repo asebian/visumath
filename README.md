@@ -9,7 +9,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Trigonometric function graphs](#trigonometric-function-graphs)
   * [Natral logarithm, Euler number, exponential function](#ln-e-exp)
 2. [R2](#r2)
-  * [Vector sum](#vector-sum)
+  * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
@@ -40,11 +40,11 @@ Natural logarithm, Euler number, and exponential function of real values.
 
 ## R2
 
-### Vector sum
+### Vector addition
 
 Adding and subtracting two-dimentional real valued vectors.
 
-[https://www.desmos.com/calculator/whrj1u1sjy](https://www.desmos.com/calculator/whrj1u1sjy)
+[https://www.desmos.com/calculator/blx95ejvti](https://www.desmos.com/calculator/blx95ejvti)
 
 ![vector sum](img/vector_sum.png)
 
