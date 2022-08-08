@@ -7,7 +7,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 
 1. [R1](#r1)
   * [Trigonometric function graphs](#trigonometric-function-graphs)
-  * [Natral logarithm, Euler number, exponential function](#ln-e-exp)
+  * [Natural logarithm, Euler number, exponential function](#ln-e-exp)
 2. [R2](#r2)
   * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
@@ -56,7 +56,7 @@ Scaling vectors.
 ### Inner product
 Dot product
 
-[https://www.desmos.com/calculator/qwz8qgsrlm](https://www.desmos.com/calculator/qwz8qgsrlm)
+[https://www.desmos.com/calculator/7kxoinpssq](https://www.desmos.com/calculator/7kxoinpssq)
 
 ![inner product](img/inner_product.png)
 
