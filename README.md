@@ -85,7 +85,7 @@ of canonical base vectors, coordinates, and line equations.
 
 ### Complex Hilbert space arithmetic
 
-[https://www.desmos.com/calculator/vzzsezqkzk](https://www.desmos.com/calculator/vzzsezqkzk)
+[https://www.desmos.com/calculator/a8k6ejf7as](https://www.desmos.com/calculator/a8k6ejf7as)
 
 ![hilbert C1](img/hilbert_C1.png)
 
