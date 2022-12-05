@@ -63,7 +63,7 @@ Dot product
 ### Line equations
 in standard form and and derivation of parametric, slope-intercept, and Hesse forms.
   
-[https://www.desmos.com/calculator/dp1erx3rcf](https://www.desmos.com/calculator/dp1erx3rcf)
+[https://www.desmos.com/calculator/exoierdbbi](https://www.desmos.com/calculator/exoierdbbi)
   
 ![line equation standard form](img/line_standard_form.png)
 
