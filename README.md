@@ -28,7 +28,7 @@ with radius 1.
 
 [https://www.desmos.com/calculator/9njjbkca9z](https://www.desmos.com/calculator/9njjbkca9z)
 
-![unit_circle](img,unit_circle.png)
+![unit_circle](img/unit_circle.png)
 
 ### Trigonometric function graphs
 Real valued trigonometric functions and their derivatives and antiderivatives:
