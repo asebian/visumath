@@ -6,6 +6,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 ## Contents
 
 1. [R1](#r1)
+  * [Trigonometric functions and the unit circle](#trigonometric-functions-and-the-unit-circle)
   * [Trigonometric function graphs](#trigonometric-function-graphs)
   * [Natural logarithm, Euler number, exponential function](#ln-e-exp)
 2. [R2](#r2)
@@ -20,6 +21,14 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 
 
 ## R1
+
+### Trigonometric functions and the unit circle
+Geometric interpretation of sine, cosine, tangent, cotangent, secant, and cosecant on a circle 
+with radius 1.
+
+[https://www.desmos.com/calculator/9njjbkca9z](https://www.desmos.com/calculator/9njjbkca9z)
+
+![unit_circle](img,unit_circle.png)
 
 ### Trigonometric function graphs
 Real valued trigonometric functions and their derivatives and antiderivatives:
