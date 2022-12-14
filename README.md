@@ -88,7 +88,7 @@ of canonical base vectors, coordinates, and line equations.
 
 ### Complex number arithmetic
 
-[https://www.desmos.com/calculator/lp3jhertiy](https://www.desmos.com/calculator/lp3jhertiy)
+[https://www.desmos.com/calculator/kizjdicrvg](https://www.desmos.com/calculator/kizjdicrvg)
 
 ![complex numbers](img/complex.png)
 
