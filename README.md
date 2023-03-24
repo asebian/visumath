@@ -84,6 +84,7 @@ of canonical base vectors, coordinates, and line equations.
 ![rotation 2D](img/rotation_2D.png)
 
 ### Polarized wave
+animation
 
 [https://www.desmos.com/calculator/rqxbww3tno](https://www.desmos.com/calculator/rqxbww3tno)
 
