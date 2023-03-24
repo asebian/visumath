@@ -15,6 +15,8 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Inner product](#inner-product)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
+  * [Sinoidal wave](#sinoidal-wave)
+  * [Polarization](#polarization)
 3. [C1](#c1)
   * [Complex number arithmetic](#complex-number-arithmetic)
   * [Complex Hilbert space arithmetic](#complex-hilbert-space-arithmetic)
@@ -83,8 +85,15 @@ of canonical base vectors, coordinates, and line equations.
 
 ![rotation 2D](img/rotation_2D.png)
 
-### Polarized wave
-animation
+### Sinoidal wave
+Temporal, spatial and spatiotemporal wavefunctions.
+
+[https://www.desmos.com/calculator/unkiwdmpyg](https://www.desmos.com/calculator/unkiwdmpyg)
+
+![sinoidal wave](img/sinoidalwave.png)
+
+### Polarization
+Linear, circular and elliptical polarized sinoidal wavefunctions.
 
 [https://www.desmos.com/calculator/rqxbww3tno](https://www.desmos.com/calculator/rqxbww3tno)
 
