@@ -15,9 +15,9 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Inner product](#inner-product)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
-3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
-  * [Polarization](#polarization)
+3. [R3](#r3)
+  * [Polarized wave](#polarized-wave)
 4. [R4](#r4)
   * [Flat sinoidal wave](#flat-sinoidal-wave)
 4. [C1](#c1)
@@ -88,16 +88,16 @@ of canonical base vectors, coordinates, and line equations.
 
 ![rotation 2D](img/rotation_2D.png)
 
-## R3
-
 ### Sinoidal wave
 Temporal, spatial and spatiotemporal wavefunctions.
 
-[https://www.desmos.com/calculator/2eqgfzaroy](https://www.desmos.com/calculator/2eqgfzaroy)
+[https://www.desmos.com/calculator/wnomjocs3f](https://www.desmos.com/calculator/wnomjocs3f)
 
 ![sinoidal wave](img/sinoidalwave.png)
 
-### Polarization
+## R3
+
+### Polarized wave
 Linear, circular and elliptical polarized sinoidal wavefunctions.
 
 [https://www.desmos.com/calculator/rqxbww3tno](https://www.desmos.com/calculator/rqxbww3tno)
