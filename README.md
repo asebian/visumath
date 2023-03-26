@@ -93,7 +93,7 @@ of canonical base vectors, coordinates, and line equations.
 ### Sinoidal wave
 Temporal, spatial and spatiotemporal wavefunctions.
 
-[https://www.desmos.com/calculator/unkiwdmpyg](https://www.desmos.com/calculator/unkiwdmpyg)
+[https://www.desmos.com/calculator/ohmyzyreox](https://www.desmos.com/calculator/ohmyzyreox)
 
 ![sinoidal wave](img/sinoidalwave.png)
 
