@@ -100,7 +100,7 @@ Temporal, spatial and spatiotemporal wavefunctions.
 ### Polarized wave
 Linear, circular and elliptical polarized sinoidal wavefunctions.
 
-[https://www.desmos.com/calculator/rqxbww3tno](https://www.desmos.com/calculator/rqxbww3tno)
+[https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
 
 ![polarized wave](img/polwave.png)
 
