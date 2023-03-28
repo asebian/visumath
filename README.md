@@ -16,7 +16,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
 3. [R3](#r3)
-   * [Sinoidal wave](#sinoidal-wave)
+  * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
   * [Polarized wave](#polarized-wave)
   * [Flat sinoidal wave](#flat-sinoidal-wave)
