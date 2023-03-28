@@ -88,6 +88,8 @@ of canonical base vectors, coordinates, and line equations.
 
 ![rotation 2D](img/rotation_2D.png)
 
+## R3
+
 ### Sinoidal wave
 Temporal, spatial and spatiotemporal wavefunctions.
 
@@ -95,7 +97,7 @@ Temporal, spatial and spatiotemporal wavefunctions.
 
 ![sinoidal wave](img/sinoidalwave.png)
 
-## R3
+## R4
 
 ### Polarized wave
 Linear, circular and elliptical polarized sinoidal wavefunctions.
@@ -103,8 +105,6 @@ Linear, circular and elliptical polarized sinoidal wavefunctions.
 [https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
 
 ![polarized wave](img/polwave.png)
-
-## R4
 
 ### Flat sinoidal wave
 
