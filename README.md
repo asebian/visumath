@@ -94,7 +94,7 @@ of canonical base vectors, coordinates, and line equations.
 ### Sinoidal wave
 Sinoidal wave in temporal, spatial and spatiotemporal representation
 
-[https://www.desmos.com/calculator/tvu2dvjxla](https://www.desmos.com/calculator/tvu2dvjxla)
+[https://www.desmos.com/calculator/qlebzpzwij](https://www.desmos.com/calculator/qlebzpzwij)
 
 ![sinoidal wave](img/sinoidalwave.png)
 
