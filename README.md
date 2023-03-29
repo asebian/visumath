@@ -19,7 +19,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
   * [Circular wave](#circular-wave)
-  * [Flat sinoidal wave](#flat-sinoidal-wave)
+  * [Flat wave](#flat-wave)
   * [Polarized wave](#polarized-wave)
 5. [C1](#c1)
   * [Complex number arithmetic](#complex-number-arithmetic)
@@ -107,14 +107,14 @@ Normal cross section views of a sinoidal oscillating membrane
 
 ![circular wave](img/circularwave.png)
 
-### Flat sinoidal wave
+### Flat wave
 
 [https://www.desmos.com/calculator/vlwazdtuhk](https://www.desmos.com/calculator/vlwazdtuhk)
 
 ![flat wave](img/flatwave.png)
 
 ### Polarized wave
-Linear, circular and elliptical polarized sinoidal wavefunctions
+Elliptical, circular and linear polarization of a sinoidal wavefunction
 
 [https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
 
