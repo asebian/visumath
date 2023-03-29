@@ -17,10 +17,10 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Rotation](#rotation)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
-  * [Circular wave](#circular-wave)
 4. [R4](#r4)
-  * [Polarized wave](#polarized-wave)
+  * [Circular wave](#circular-wave)
   * [Flat sinoidal wave](#flat-sinoidal-wave)
+  * [Polarized wave](#polarized-wave)
 5. [C1](#c1)
   * [Complex number arithmetic](#complex-number-arithmetic)
   * [Complex Hilbert space arithmetic](#complex-hilbert-space-arithmetic)
@@ -92,33 +92,33 @@ of canonical base vectors, coordinates, and line equations.
 ## R3
 
 ### Sinoidal wave
-Temporal, spatial and spatiotemporal wavefunctions.
+Temporal, spatial and spatiotemporal wavefunctions
 
 [https://www.desmos.com/calculator/wnomjocs3f](https://www.desmos.com/calculator/wnomjocs3f)
 
 ![sinoidal wave](img/sinoidalwave.png)
 
+## R4
+
 ### Circular wave
-Normal crossection views of a sinoidal oscillating membrane
+Normal cross section views of a sinoidal oscillating membrane
 
 [https://www.desmos.com/calculator/h06rauoahc](https://www.desmos.com/calculator/h06rauoahc)
 
 ![circular wave](img/circularwave.png)
-
-## R4
-
-### Polarized wave
-Linear, circular and elliptical polarized sinoidal wavefunctions.
-
-[https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
-
-![polarized wave](img/polwave.png)
 
 ### Flat sinoidal wave
 
 [https://www.desmos.com/calculator/vlwazdtuhk](https://www.desmos.com/calculator/vlwazdtuhk)
 
 ![flat wave](img/flatwave.png)
+
+### Polarized wave
+Linear, circular and elliptical polarized sinoidal wavefunctions
+
+[https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
+
+![polarized wave](img/polwave.png)
 
 ## C1
 
