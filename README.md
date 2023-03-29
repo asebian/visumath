@@ -92,16 +92,16 @@ of canonical base vectors, coordinates, and line equations.
 ## R3
 
 ### Sinoidal wave
-Temporal, spatial and spatiotemporal wavefunctions
+Sinoidal wave in temporal, spatial and spatiotemporal representation
 
-[https://www.desmos.com/calculator/wnomjocs3f](https://www.desmos.com/calculator/wnomjocs3f)
+[https://www.desmos.com/calculator/tvu2dvjxla](https://www.desmos.com/calculator/tvu2dvjxla)
 
 ![sinoidal wave](img/sinoidalwave.png)
 
 ## R4
 
 ### Circular wave
-Normal cross section views of a sinoidal oscillating membrane
+Sinoidal oscillating membrane in 3 canonical cross section views
 
 [https://www.desmos.com/calculator/h06rauoahc](https://www.desmos.com/calculator/h06rauoahc)
 
@@ -114,7 +114,7 @@ Normal cross section views of a sinoidal oscillating membrane
 ![flat wave](img/flatwave.png)
 
 ### Polarized wave
-Elliptical, circular and linear polarization of a sinoidal wavefunction
+Elliptical, circular and linear polarization of a sinoidal wave in cross section view
 
 [https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
 
