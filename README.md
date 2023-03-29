@@ -17,6 +17,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Rotation](#rotation)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
+  * [Circular wave](#circular wave)
 4. [R4](#r4)
   * [Polarized wave](#polarized-wave)
   * [Flat sinoidal wave](#flat-sinoidal-wave)
@@ -96,6 +97,13 @@ Temporal, spatial and spatiotemporal wavefunctions.
 [https://www.desmos.com/calculator/wnomjocs3f](https://www.desmos.com/calculator/wnomjocs3f)
 
 ![sinoidal wave](img/sinoidalwave.png)
+
+### Circular wave
+Sinoidal oscillating membrane
+
+[https://www.desmos.com/calculator/h06rauoahc](https://www.desmos.com/calculator/h06rauoahc)
+
+![circular wave](img/circularwave.png)
 
 ## R4
 
