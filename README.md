@@ -101,14 +101,14 @@ Sinoidal wave in temporal, spatial and spatiotemporal representation
 ## R4
 
 ### Circular wave
-Sinoidal oscillating membrane in 3 canonical cross section views
+Sinoidal oscillating membrane in canonical cross section views
 
 [https://www.desmos.com/calculator/xv3z72j533](https://www.desmos.com/calculator/xv3z72j533)
 
 ![circular wave](img/circularwave.png)
 
 ### Flat wave
-Sinoidal flat wave in 3 canonical cross section views
+Sinoidal flat wave in canonical cross section views
 
 [https://www.desmos.com/calculator/utzjge1bcg](https://www.desmos.com/calculator/utzjge1bcg)
 
