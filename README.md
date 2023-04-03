@@ -83,19 +83,19 @@ in standard form and and derivation of parametric, slope-intercept, and Hesse fo
   
 ![line equation standard form](img/line_standard_form.png)
 
-### Homogeneous coordinates
-Transformation to and from homogeneous coordinate points, normalized coordinates and far points.
-
-[https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
-
-![homogeneous coordinates](img/homogen.png)
-
 ### Rotation
 of canonical base vectors, coordinates, and line equations.
 
 [https://www.desmos.com/calculator/qdgc3qfhbv](https://www.desmos.com/calculator/qdgc3qfhbv)
 
 ![rotation 2D](img/rotation_2D.png)
+
+### Homogeneous coordinates
+Transformation to and from homogeneous coordinates, normalization and far points.
+
+[https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
+
+![homogeneous coordinates](img/homogen.png)
 
 ## R3
 
