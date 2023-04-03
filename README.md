@@ -15,6 +15,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Inner product](#inner-product)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
+  * [Homogeneous coordinates](#homogeneous-coordinates)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
@@ -81,6 +82,13 @@ in standard form and and derivation of parametric, slope-intercept, and Hesse fo
 [https://www.desmos.com/calculator/w61bx9rpu2](https://www.desmos.com/calculator/w61bx9rpu2)
   
 ![line equation standard form](img/line_standard_form.png)
+
+### Homogeneous coordinates
+Transformation to and from homogeneous coordinate points, normalized coordinates and far points.
+
+[https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
+
+![homogeneous coordinates](img/homogen.png)
 
 ### Rotation
 of canonical base vectors, coordinates, and line equations.
