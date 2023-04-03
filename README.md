@@ -103,7 +103,7 @@ Sinoidal wave in temporal, spatial and spatiotemporal representation
 ### Circular wave
 Sinoidal oscillating membrane in canonical cross section views
 
-[https://www.desmos.com/calculator/xv3z72j533](https://www.desmos.com/calculator/xv3z72j533)
+[https://www.desmos.com/calculator/piocwdyyo4](https://www.desmos.com/calculator/piocwdyyo4)
 
 ![circular wave](img/circularwave.png)
 
