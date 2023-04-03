@@ -110,7 +110,7 @@ Sinoidal oscillating membrane in canonical cross section views
 ### Flat wave
 Sinoidal flat wave in canonical cross section views
 
-[https://www.desmos.com/calculator/utzjge1bcg](https://www.desmos.com/calculator/utzjge1bcg)
+[https://www.desmos.com/calculator/f1faftq0mt](https://www.desmos.com/calculator/f1faftq0mt)
 
 ![flat wave](img/flatwave.png)
 
