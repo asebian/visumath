@@ -16,6 +16,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
   * [Homogeneous coordinates](#homogeneous-coordinates)
+  * [Bezier curve](#bezier-curve)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
@@ -96,6 +97,13 @@ Transformation to and from homogeneous coordinates, normalization and far points
 [https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
 
 ![homogeneous coordinates](img/homogen.png)
+
+### Bezier curve
+DeCastelau (linear interpolation), Bernstein, polynomial and matrix form of cubic Bezier curve.
+
+[https://www.desmos.com/calculator/00s3rvv1xv](https://www.desmos.com/calculator/00s3rvv1xv)
+
+![bezier curve](img/cubicbezier.png)
 
 ## R3
 
