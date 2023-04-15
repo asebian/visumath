@@ -101,7 +101,7 @@ Transformation to and from homogeneous coordinates, normalization and far points
 ### Bezier curve
 DeCastelau (linear interpolation), Bernstein, polynomial and matrix form of cubic Bezier curve.
 
-[https://www.desmos.com/calculator/cxmbdxz2ok](https://www.desmos.com/calculator/cxmbdxz2ok)
+[https://www.desmos.com/calculator/8vkaetqhym](https://www.desmos.com/calculator/8vkaetqhym)
 
 ![bezier curve](img/cubicbezier.png)
 
