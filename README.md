@@ -16,6 +16,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
   * [Homogeneous coordinates](#homogeneous-coordinates)
+  * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
@@ -97,6 +98,13 @@ Transformation to and from homogeneous coordinates, normalization and far points
 [https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
 
 ![homogeneous coordinates](img/homogen.png)
+
+### Curvature
+Curvature of a graph.
+
+[https://www.desmos.com/calculator/qeixuqstme](https://www.desmos.com/calculator/qeixuqstme)
+
+![curvature](img/curvature.png)
 
 ### Bezier curve
 DeCastelau algorithm, Bernstein form, polynomial form, matrix form, derivatives and curvature of Bezier curves.
