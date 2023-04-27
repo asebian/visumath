@@ -100,9 +100,9 @@ Transformation to and from homogeneous coordinates, normalization and far points
 ![homogeneous coordinates](img/homogen.png)
 
 ### Curvature
-Curvature of a graph.
+Curvature and osculating circle of a continuously differentiable function.
 
-[https://www.desmos.com/calculator/qeixuqstme](https://www.desmos.com/calculator/qeixuqstme)
+[https://www.desmos.com/calculator/91xdbwxaxv](https://www.desmos.com/calculator/91xdbwxaxv)
 
 ![curvature](img/curvature.png)
 
