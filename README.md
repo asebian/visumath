@@ -88,9 +88,9 @@ in standard form and and derivation of parametric, slope-intercept, and Hesse fo
 ![line equation standard form](img/line_standard_form.png)
 
 ### Rotation
-of canonical base vectors, coordinates, and line equations.
+Rotation of canonical base vectors, coordinates, and line equations.
 
-[https://www.desmos.com/calculator/diirwoylqu](https://www.desmos.com/calculator/diirwoylqu)
+[https://www.desmos.com/calculator/9mxcidhljn](https://www.desmos.com/calculator/9mxcidhljn)
 
 ![rotation 2D](img/rotation_2D.png)
 
