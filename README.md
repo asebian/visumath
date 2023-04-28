@@ -116,9 +116,9 @@ DeCastelau algorithm, Bernstein form, polynomial form, matrix form, derivatives 
 ![bezier curve](img/cubicbezier.png)
 
 ### Catmull-Rom spline
-Quarter circle approximation with Catmull-Rom spline.
+Quarter circle approximation with Catmull-Rom spline and its deviation from ideal circle.
 
-[https://www.desmos.com/calculator/zey8ceoghh](https://www.desmos.com/calculator/zey8ceoghh)
+[https://www.desmos.com/calculator/mzzjm4qetr](https://www.desmos.com/calculator/mzzjm4qetr)
 
 ![Catmull-Rom circle](img/catmull-rom_circle.png)
 
