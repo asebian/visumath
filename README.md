@@ -13,9 +13,9 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
   * [Inner product](#inner-product)
+  * [Homogeneous coordinates](#homogeneous-coordinates)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
-  * [Homogeneous coordinates](#homogeneous-coordinates)
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
   * [Catmull-Rom spline](#catmull-rom-spline)
@@ -80,6 +80,13 @@ Dot product
 
 ![inner product](img/inner_product.png)
 
+### Homogeneous coordinates
+Transformation to and from homogeneous coordinates, normalization and far points.
+
+[https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
+
+![homogeneous coordinates](img/homogen.png)
+
 ### Line equations
 Line equation in standard form and derivation of parametric, slope-intercept, Hesse and homogeneous coordinate forms.
   
@@ -93,13 +100,6 @@ Rotation of canonical base vectors, coordinates, and line equations.
 [https://www.desmos.com/calculator/9mxcidhljn](https://www.desmos.com/calculator/9mxcidhljn)
 
 ![rotation 2D](img/rotation_2D.png)
-
-### Homogeneous coordinates
-Transformation to and from homogeneous coordinates, normalization and far points.
-
-[https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
-
-![homogeneous coordinates](img/homogen.png)
 
 ### Curvature
 Curvature and osculating circle of a continuously differentiable function.
