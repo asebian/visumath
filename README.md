@@ -18,6 +18,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Homogeneous coordinates](#homogeneous-coordinates)
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
+  * [Catmull-Rom spline](#catmull-rom-spline)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
@@ -112,6 +113,13 @@ DeCastelau algorithm, Bernstein form, polynomial form, matrix form, derivatives 
 [https://www.desmos.com/calculator/hmzaf3gw0b](https://www.desmos.com/calculator/hmzaf3gw0b)
 
 ![bezier curve](img/cubicbezier.png)
+
+### Catmull-Rom spline
+Quarter circle approximation with Catmull-Rom spline.
+
+[https://www.desmos.com/calculator/zey8ceoghh](https://www.desmos.com/calculator/zey8ceoghh)
+
+![Catmull-Rom circle](img/catmull-rom_circle.png)
 
 ## R3
 
