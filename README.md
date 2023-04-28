@@ -81,9 +81,9 @@ Dot product
 ![inner product](img/inner_product.png)
 
 ### Line equations
-in standard form and and derivation of parametric, slope-intercept, and Hesse forms.
+Line equation in standard form and derivation of parametric, slope-intercept, Hesse and homogeneous coordinate forms.
   
-[https://www.desmos.com/calculator/w61bx9rpu2](https://www.desmos.com/calculator/w61bx9rpu2)
+[https://www.desmos.com/calculator/h8zftxfzuo](https://www.desmos.com/calculator/h8zftxfzuo)
   
 ![line equation standard form](img/line_standard_form.png)
 
