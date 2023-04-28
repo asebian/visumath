@@ -125,7 +125,7 @@ Quarter circle approximation with Catmull-Rom spline and its deviation from idea
 ### Rational Bezier curves
 Half-circle, half-ellipse, parabola and hyperbola branch as rational Bezier curves in homogeneous coordinate matrix form.
 
-[https://www.desmos.com/calculator/29nyn2nrql](https://www.desmos.com/calculator/29nyn2nrql)
+[https://www.desmos.com/calculator/bbgxn3kep2](https://www.desmos.com/calculator/bbgxn3kep2)
 
 ![rational Bezier curves](img/rational_bezier.png)
 
