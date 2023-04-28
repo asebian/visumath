@@ -19,6 +19,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
   * [Catmull-Rom spline](#catmull-rom-spline)
+  * [Rational Bezier curves](#rational-bezier-curves)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
@@ -120,6 +121,13 @@ Quarter circle approximation with Catmull-Rom spline.
 [https://www.desmos.com/calculator/zey8ceoghh](https://www.desmos.com/calculator/zey8ceoghh)
 
 ![Catmull-Rom circle](img/catmull-rom_circle.png)
+
+### Rational Bezier curves
+Half-circle, half-ellipse, parabola and hyperbola branch as rational Bezier curves in projective space matrix form.
+
+[https://www.desmos.com/calculator/ef1hcy3a5f](https://www.desmos.com/calculator/ef1hcy3a5f)
+
+![rational Bezier curves](img/rational_bezier.png)
 
 ## R3
 
