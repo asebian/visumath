@@ -125,7 +125,7 @@ Quarter circle approximation with Catmull-Rom spline and its deviation from idea
 ### Rational Bezier curves
 Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous coordinate matrix form.
 
-[https://www.desmos.com/calculator/bbgxn3kep2](https://www.desmos.com/calculator/bbgxn3kep2)
+[https://www.desmos.com/calculator/j3bnviwjqv](https://www.desmos.com/calculator/j3bnviwjqv)
 
 ![rational Bezier curves](img/rational_bezier.png)
 
