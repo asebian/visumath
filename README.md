@@ -37,7 +37,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 Geometric interpretation of sine, cosine, tangent, cotangent, secant, and cosecant on a circle 
 with radius 1.
 
-[https://www.desmos.com/calculator/1q3o4wo8ne](https://www.desmos.com/calculator/1q3o4wo8ne)
+[https://www.desmos.com/calculator/fwigegztd0](https://www.desmos.com/calculator/fwigegztd0)
 
 ![unit_circle](img/unit_circle.png)
 
