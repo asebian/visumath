@@ -18,6 +18,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Rotation](#rotation)
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
+  * [Hermite spline](#hermite-spline)
   * [Catmull-Rom spline](#catmull-rom-spline)
   * [Rational Bezier curves](#rational-bezier-curves)
 3. [R3](#r3)
