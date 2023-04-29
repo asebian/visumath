@@ -119,14 +119,10 @@ De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives
 ### Hermite spline
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
 
-[https://www.desmos.com/calculator/2ghnvriu7b](https://www.desmos.com/calculator/2ghnvriu7b)
-
 ![Hermite spline](img/hermite_spline.png)
 
 ### Catmull-Rom spline
 Quarter circle approximation with Catmull-Rom spline and its deviation from ideal circle.
-
-[https://www.desmos.com/calculator/mzzjm4qetr](https://www.desmos.com/calculator/mzzjm4qetr)
 
 ![Catmull-Rom circle](img/catmull-rom_circle.png)
 
