@@ -109,11 +109,18 @@ Curvature and osculating circle of a continuously differentiable function.
 ![curvature](img/curvature.png)
 
 ### Bezier curve
-DeCastelau algorithm, Bernstein form, polynomial form, matrix form, derivatives and curvature of Bezier curves.
+De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives and curvature of Bezier curves.
 
 [https://www.desmos.com/calculator/hmzaf3gw0b](https://www.desmos.com/calculator/hmzaf3gw0b)
 
 ![bezier curve](img/cubicbezier.png)
+
+### Hermite spline
+Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
+
+[https://www.desmos.com/calculator/nwnvynezsh](https://www.desmos.com/calculator/nwnvynezsh)
+
+![Hermite spline](img/hermite_spline.png)
 
 ### Catmull-Rom spline
 Quarter circle approximation with Catmull-Rom spline and its deviation from ideal circle.
