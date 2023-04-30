@@ -19,6 +19,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
   * [Hermite curve](#hermite-curve)
+  * [Cardinal curve](#cardinal-curve)
   * [Catmull-Rom curve](#catmull-rom-curve)
   * [Rational Bezier curve](#rational-bezier-curve)
 3. [R3](#r3)
@@ -119,9 +120,16 @@ De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives
 ### Hermite curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
 
-[https://www.desmos.com/calculator/s1uzetxrd3](https://www.desmos.com/calculator/s1uzetxrd3)
+[https://www.desmos.com/calculator/ifpihjsh7c](https://www.desmos.com/calculator/ifpihjsh7c)
 
 ![Hermite curve](img/hermite_spline.png)
+
+### Cardinal curve
+Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
+
+[https://www.desmos.com/calculator/oujrcxralj](https://www.desmos.com/calculator/oujrcxralj)
+
+![cardinal curve](img/cardinal_curve.png)
 
 ### Catmull-Rom curve
 Quarter circle approximation and its deviation from ideal circle.
