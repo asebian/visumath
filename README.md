@@ -119,7 +119,7 @@ De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives
 ### Hermite spline
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
 
-currently offline for review
+[https://www.desmos.com/calculator/owcm6qymoe](https://www.desmos.com/calculator/owcm6qymoe)
 
 ![Hermite spline](img/hermite_spline.png)
 
