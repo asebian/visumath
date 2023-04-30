@@ -132,11 +132,7 @@ Polynomial and matrix form, derivatives, curvature, osculating circle, quarter c
 ![cardinal curve](img/cardinal_curve.png)
 
 ### Catmull-Rom curve
-Quarter circle approximation and its deviation from ideal circle.
-
-currently offline for review
-
-![Catmull-Rom curve](img/catmull-rom_circle.png)
+Special case of cardinal curve with tension 0.5
 
 ### Rational Bezier curve
 Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous coordinate matrix form.
