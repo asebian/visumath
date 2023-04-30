@@ -18,9 +18,9 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Rotation](#rotation)
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
-  * [Hermite spline](#hermite-spline)
-  * [Catmull-Rom spline](#catmull-rom-spline)
-  * [Rational Bezier curves](#rational-bezier-curves)
+  * [Hermite curve](#hermite-curve)
+  * [Catmull-Rom curve](#catmull-rom-curve)
+  * [Rational Bezier curve](#rational-bezier-curve)
 3. [R3](#r3)
   * [Sinoidal wave](#sinoidal-wave)
 4. [R4](#r4)
@@ -116,26 +116,26 @@ De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives
 
 ![bezier curve](img/cubicbezier.png)
 
-### Hermite spline
+### Hermite curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
 
 [https://www.desmos.com/calculator/owcm6qymoe](https://www.desmos.com/calculator/owcm6qymoe)
 
-![Hermite spline](img/hermite_spline.png)
+![Hermite curve](img/hermite_spline.png)
 
-### Catmull-Rom spline
-Quarter circle approximation with Catmull-Rom spline and its deviation from ideal circle.
+### Catmull-Rom curve
+Quarter circle approximation and its deviation from ideal circle.
 
 currently offline for review
 
-![Catmull-Rom circle](img/catmull-rom_circle.png)
+![Catmull-Rom curve](img/catmull-rom_circle.png)
 
-### Rational Bezier curves
+### Rational Bezier curve
 Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous coordinate matrix form.
 
 [https://www.desmos.com/calculator/j3bnviwjqv](https://www.desmos.com/calculator/j3bnviwjqv)
 
-![rational Bezier curves](img/rational_bezier.png)
+![rational Bezier curve](img/rational_bezier.png)
 
 ## R3
 
