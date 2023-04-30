@@ -127,7 +127,7 @@ Polynomial and matrix form, derivatives, curvature, osculating circle, quarter c
 ### Cardinal curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
 
-[https://www.desmos.com/calculator/oujrcxralj](https://www.desmos.com/calculator/oujrcxralj)
+[https://www.desmos.com/calculator/08vwgzm8fq](https://www.desmos.com/calculator/08vwgzm8fq)
 
 ![cardinal curve](img/cardinal_curve.png)
 
