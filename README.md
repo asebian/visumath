@@ -113,7 +113,7 @@ Curvature and osculating circle of a continuously differentiable function.
 ### Bezier curve
 De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives and curvature of Bezier curves.
 
-[https://www.desmos.com/calculator/hmzaf3gw0b](https://www.desmos.com/calculator/hmzaf3gw0b)
+[https://www.desmos.com/calculator/spgmi0z8eu](https://www.desmos.com/calculator/spgmi0z8eu)
 
 ![bezier curve](img/cubicbezier.png)
 
@@ -127,7 +127,7 @@ Polynomial and matrix form, derivatives, curvature, osculating circle, quarter c
 ### Cardinal curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
 
-[https://www.desmos.com/calculator/ujorkq8m70](https://www.desmos.com/calculator/ujorkq8m70)
+[https://www.desmos.com/calculator/6uazvc3re6](https://www.desmos.com/calculator/6uazvc3re6)
 
 ![cardinal curve](img/cardinal_curve.png)
 
