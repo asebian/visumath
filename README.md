@@ -118,21 +118,26 @@ De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives
 ![bezier curve](img/cubicbezier.png)
 
 ### Hermite curve
-Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
+Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
 
-[https://www.desmos.com/calculator/ifpihjsh7c](https://www.desmos.com/calculator/ifpihjsh7c)
+[https://www.desmos.com/calculator/ln1exvl9il](https://www.desmos.com/calculator/ln1exvl9il)
 
 ![Hermite curve](img/hermite_spline.png)
 
 ### Cardinal curve
-Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation and its deviation from ideal circle.
+Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
 
-[https://www.desmos.com/calculator/6uazvc3re6](https://www.desmos.com/calculator/6uazvc3re6)
+[https://www.desmos.com/calculator/06mclwqqur](https://www.desmos.com/calculator/06mclwqqur)
 
 ![cardinal curve](img/cardinal_curve.png)
 
 ### Catmull-Rom curve
-Special case of cardinal curve with tension 0.5
+Special case of cardinal curve with tension 0.5.
+Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
+
+[https://www.desmos.com/calculator/z9slwnkvle](https://www.desmos.com/calculator/z9slwnkvle)
+
+![Catmull-Rom curve](img/catmull-rom.png)
 
 ### Rational Bezier curve
 Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous coordinate matrix form.
