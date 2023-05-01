@@ -132,8 +132,8 @@ Polynomial and matrix form, derivatives, curvature, osculating circle, quarter c
 ![cardinal curve](img/cardinal_curve.png)
 
 ### Catmull-Rom curve
-Special case of cardinal curve with tension 0.5.
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
+(Cardinal curve with tension 0.5)
 
 [https://www.desmos.com/calculator/z9slwnkvle](https://www.desmos.com/calculator/z9slwnkvle)
 
