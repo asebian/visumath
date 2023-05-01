@@ -113,7 +113,7 @@ Curvature and osculating circle of a continuously differentiable function.
 ### Bezier curve
 De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives and curvature of Bezier curves.
 
-[https://www.desmos.com/calculator/spgmi0z8eu](https://www.desmos.com/calculator/spgmi0z8eu)
+[https://www.desmos.com/calculator/5mxwdei16h](https://www.desmos.com/calculator/5mxwdei16h)
 
 ![bezier curve](img/cubicbezier.png)
 
