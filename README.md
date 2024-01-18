@@ -16,7 +16,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Homogeneous coordinates](#homogeneous-coordinates)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
-  * [Refraction](refraction)
+  * [Refraction](#refraction)
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
   * [Hermite curve](#hermite-curve)
