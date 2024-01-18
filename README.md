@@ -16,6 +16,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Homogeneous coordinates](#homogeneous-coordinates)
   * [Line equations](#line-equations)
   * [Rotation](#rotation)
+  * [Refraction](refraction)
   * [Curvature](#curvature)
   * [Bezier curve](#bezier-curve)
   * [Hermite curve](#hermite-curve)
@@ -102,6 +103,13 @@ Rotation of canonical base vectors, coordinates, and line equations.
 [https://www.desmos.com/calculator/9mxcidhljn](https://www.desmos.com/calculator/9mxcidhljn)
 
 ![rotation 2D](img/rotation_2D.png)
+
+### Refraction
+Refraction and inner reflection of a ray of light at a plane surface between two homogeneous media.
+
+[https://www.desmos.com/calculator/0hlnppjf3o](https://www.desmos.com/calculator/0hlnppjf3o)
+
+![refraction](img/refraction.png)
 
 ### Curvature
 Curvature and osculating circle of a continuously differentiable function.
