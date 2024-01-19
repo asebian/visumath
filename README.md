@@ -107,7 +107,7 @@ Rotation of canonical base vectors, coordinates, and line equations.
 ### Refraction
 Refraction and inner reflection of a ray of light at a plane surface between two homogeneous media.
 
-[https://www.desmos.com/calculator/0hlnppjf3o](https://www.desmos.com/calculator/0hlnppjf3o)
+[https://www.desmos.com/calculator/6wi2itxnti](https://www.desmos.com/calculator/6wi2itxnti)
 
 ![refraction](img/refraction.png)
 
