@@ -31,7 +31,6 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Polarized wave](#polarized-wave)
 5. [C1](#c1)
   * [Complex number arithmetic](#complex-number-arithmetic)
-  * [Complex Hilbert space arithmetic](#complex-hilbert-space-arithmetic)
 
 
 ## R1
@@ -193,10 +192,3 @@ Elliptical, circular and linear polarization of a sinoidal wave in cross section
 [https://www.desmos.com/calculator/kizjdicrvg](https://www.desmos.com/calculator/kizjdicrvg)
 
 ![complex numbers](img/complex.png)
-
-### Complex Hilbert space arithmetic
-
-[https://www.desmos.com/calculator/twnlgtvkeg](https://www.desmos.com/calculator/twnlgtvkeg)
-
-![hilbert C1](img/hilbert_C1.png)
-
