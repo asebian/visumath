@@ -52,11 +52,11 @@ sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 ![trig-functions](img/trig_fnctns.png)
 
 ### ln, e, exp
-Natural logarithm, Euler number, and exponential function of real values.
+Natural logarithm, Euler number, exponential function and LambertW-function of real values.
 
-[https://www.desmos.com/calculator/fruyibyguk](https://www.desmos.com/calculator/fruyibyguk)
+[https://www.desmos.com/calculator/xh2v6jjob9](https://www.desmos.com/calculator/xh2v6jjob9)
 
-![ln, exp](img/ln_exp.png)
+![ln exp](img/ln_exp.png)
 
 
 ## R2
