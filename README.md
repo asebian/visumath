@@ -47,14 +47,14 @@ with radius 1.
 Real valued trigonometric functions and their derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
-[https://www.desmos.com/calculator/kl5pwzxmmb](https://www.desmos.com/calculator/tsbgjggkks)
+[https://www.desmos.com/calculator/tsbgjggkks](https://www.desmos.com/calculator/tsbgjggkks)
 
 ![trig-functions](img/trig_fnctns.png)
 
 ### ln, e, exp
 Natural logarithm, Euler number, and exponential function of real values.
 
-[https://www.desmos.com/calculator/xon16hrqgg](https://www.desmos.com/calculator/xon16hrqgg)
+[https://www.desmos.com/calculator/fruyibyguk](https://www.desmos.com/calculator/fruyibyguk)
 
 ![ln, exp](img/ln_exp.png)
 
