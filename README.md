@@ -54,7 +54,7 @@ sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 ### ln, e, exp, W
 Natural logarithm, Euler number, exponential function and LambertW-function of real values.
 
-[https://www.desmos.com/calculator/xh2v6jjob9](https://www.desmos.com/calculator/xh2v6jjob9)
+[https://www.desmos.com/calculator/fknzali1gx](https://www.desmos.com/calculator/fknzali1gx)
 
 ![ln exp](img/ln_exp.png)
 
