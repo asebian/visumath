@@ -47,7 +47,7 @@ with radius 1.
 Real valued trigonometric functions and their derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
-[https://www.desmos.com/calculator/kl5pwzxmmb](https://www.desmos.com/calculator/kl5pwzxmmb)
+[https://www.desmos.com/calculator/kl5pwzxmmb](https://www.desmos.com/calculator/tsbgjggkks)
 
 ![trig-functions](img/trig_fnctns.png)
 
