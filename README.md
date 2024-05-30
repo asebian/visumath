@@ -8,7 +8,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 1. [R1](#r1)
   * [Trigonometric functions and the unit circle](#trigonometric-functions-and-the-unit-circle)
   * [Trigonometric function graphs](#trigonometric-function-graphs)
-  * [Natural logarithm, Euler number, exponential function](#ln-e-exp)
+  * [Natural logarithm, Euler number, exponential function, Lambert W-function](#ln-e-exp-W)
 2. [R2](#r2)
   * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
@@ -51,7 +51,7 @@ sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
 ![trig-functions](img/trig_fnctns.png)
 
-### ln, e, exp
+### ln, e, exp, W
 Natural logarithm, Euler number, exponential function and LambertW-function of real values.
 
 [https://www.desmos.com/calculator/xh2v6jjob9](https://www.desmos.com/calculator/xh2v6jjob9)
