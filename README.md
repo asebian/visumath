@@ -90,9 +90,9 @@ Transformation to and from homogeneous coordinates, normalization and far points
 ![homogeneous coordinates](img/homogen.png)
 
 ### Line equations
-Line equation in standard form and derivation of parametric, slope-intercept, Hesse and homogeneous coordinate forms.
+Line equation in standard form and derivation of parametric, slope-intercept, Hesse, polar and homogeneous coordinate forms.
   
-[https://www.desmos.com/calculator/h8zftxfzuo](https://www.desmos.com/calculator/h8zftxfzuo)
+[https://www.desmos.com/calculator/si4r5rrtkl](https://www.desmos.com/calculator/si4r5rrtkl)
   
 ![line equation standard form](img/line_standard_form.png)
 
