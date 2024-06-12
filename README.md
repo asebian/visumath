@@ -8,7 +8,8 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 1. [R1](#r1)
   * [Trigonometric functions and the unit circle](#trigonometric-functions-and-the-unit-circle)
   * [Trigonometric function graphs](#trigonometric-function-graphs)
-  * [Natural logarithm, Euler number, exponential function, Lambert W-function](#ln-e-exp-W)
+  * [Natural logarithm, Euler number, exponential function, Lambert W-function](#ln-e-exp-w)
+  * [Hyperbolic functions](#hyperbolic-functions)
 2. [R2](#r2)
   * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
@@ -58,6 +59,10 @@ Natural logarithm, Euler number, exponential function and LambertW-function of r
 
 ![ln exp](img/ln_exp.png)
 
+### Hyperbolic functions
+Hyperbolic sine, cosine, tangent and the unit hyperbola.
+
+[https://www.desmos.com/calculator/a6emttcq15](https://www.desmos.com/calculator/a6emttcq15)
 
 ## R2
 
