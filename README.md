@@ -6,8 +6,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 ## Contents
 
 1. [R1](#r1)
-  * [Trigonometric functions and the unit circle](#trigonometric-functions-and-the-unit-circle)
-  * [Trigonometric function graphs](#trigonometric-function-graphs)
+  * [Trigonometric functions and the unit circle](#trigonometric-functions)
   * [Natural logarithm, Euler number, exponential function, Lambert W-function](#ln-e-exp-w)
   * [Hyperbolic functions](#hyperbolic-functions)
 2. [R2](#r2)
@@ -36,21 +35,14 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 
 ## R1
 
-### Trigonometric functions and the unit circle
-Geometric interpretation of sine, cosine, tangent, cotangent, secant, and cosecant on a circle 
-with radius 1.
-
-[https://www.desmos.com/calculator/gvrnuiwkmw](https://www.desmos.com/calculator/gvrnuiwkmw)
-
-![unit_circle](img/unit_circle.png)
-
-### Trigonometric function graphs
-Real valued trigonometric functions and their derivatives and antiderivatives:
+### Trigonometric functions
+Real valued trigonometric functions, geometric reasoning with 
+help of the unit circle, derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
-[https://www.desmos.com/calculator/tsbgjggkks](https://www.desmos.com/calculator/tsbgjggkks)
+[https://www.desmos.com/calculator/oznjiukhgq](https://www.desmos.com/calculator/oznjiukhgq)
 
-![trig-functions](img/trig_fnctns.png)
+![unit_circle](img/unit_circle.png)
 
 ### ln, e, exp, W
 Natural logarithm, Euler number, exponential function and LambertW-function of real values.
