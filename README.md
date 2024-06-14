@@ -6,9 +6,9 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 ## Contents
 
 1. [R1](#r1)
-  * [Trigonometric functions and the unit circle](#trigonometric-functions)
-  * [Natural logarithm, Euler number, exponential function, Lambert W-function](#ln-e-exp-w)
+  * [Trigonometric functions](#trigonometric-functions)
   * [Hyperbolic functions](#hyperbolic-functions)
+  * [Natural logarithm, Euler number, exponential function, Lambert W-function](#ln-e-exp-w)
 2. [R2](#r2)
   * [Vector addition](#vector-addition)
   * [Scalar multiplication](#scalar-multiplication)
@@ -40,9 +40,14 @@ Real valued trigonometric functions, geometric reasoning with
 help of the unit circle, derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
-[https://www.desmos.com/calculator/oznjiukhgq](https://www.desmos.com/calculator/oznjiukhgq)
+[https://www.desmos.com/calculator/vtjntfqauz](https://www.desmos.com/calculator/vtjntfqauz)
 
 ![unit_circle](img/unit_circle.png)
+
+### Hyperbolic functions
+Hyperbolic sine, cosine, tangent and the unit hyperbola.
+
+[https://www.desmos.com/calculator/a6emttcq15](https://www.desmos.com/calculator/a6emttcq15)
 
 ### ln, e, exp, W
 Natural logarithm, Euler number, exponential function and LambertW-function of real values.
@@ -50,11 +55,6 @@ Natural logarithm, Euler number, exponential function and LambertW-function of r
 [https://www.desmos.com/calculator/fknzali1gx](https://www.desmos.com/calculator/fknzali1gx)
 
 ![ln exp](img/ln_exp.png)
-
-### Hyperbolic functions
-Hyperbolic sine, cosine, tangent and the unit hyperbola.
-
-[https://www.desmos.com/calculator/a6emttcq15](https://www.desmos.com/calculator/a6emttcq15)
 
 ## R2
 
