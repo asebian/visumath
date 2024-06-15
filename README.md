@@ -37,10 +37,10 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
 
 ### Trigonometric functions
 Real valued trigonometric functions, geometric reasoning with 
-help of the unit circle, derivatives and antiderivatives:
+help of the unit circle, identities, derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
-[https://www.desmos.com/calculator/vtjntfqauz](https://www.desmos.com/calculator/vtjntfqauz)
+[https://www.desmos.com/calculator/ffd1nyipbg](https://www.desmos.com/calculator/ffd1nyipbg)
 
 ![unit_circle](img/unit_circle.png)
 
