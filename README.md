@@ -48,6 +48,10 @@ Angle sum identities:
 
 [https://www.desmos.com/calculator/ntziglr9el](https://www.desmos.com/calculator/ntziglr9el)
 
+Angle difference identities:
+
+[https://www.desmos.com/calculator/nrazgdlgbu](https://www.desmos.com/calculator/nrazgdlgbu)
+
 ### Hyperbolic functions
 Hyperbolic sine, cosine, tangent and the unit hyperbola.
 
