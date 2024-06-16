@@ -40,9 +40,13 @@ Real valued trigonometric functions, geometric reasoning with
 help of the unit circle, identities, derivatives and antiderivatives:
 sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
-[https://www.desmos.com/calculator/ffd1nyipbg](https://www.desmos.com/calculator/ffd1nyipbg)
+[https://www.desmos.com/calculator/5dms91pmgz](https://www.desmos.com/calculator/5dms91pmgz)
 
 ![unit_circle](img/unit_circle.png)
+
+Angle sum identities:
+
+[https://www.desmos.com/calculator/ntziglr9el](https://www.desmos.com/calculator/ntziglr9el)
 
 ### Hyperbolic functions
 Hyperbolic sine, cosine, tangent and the unit hyperbola.
