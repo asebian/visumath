@@ -43,7 +43,7 @@ sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
 [https://www.desmos.com/calculator/5dms91pmgz](https://www.desmos.com/calculator/5dms91pmgz)
 
-![screenshot unit_trig-functions](img/unit_circle.png)
+![screenshot unit_trig-functions](img/trig_fnctns.png)
 
 Angle sum identities:
 
