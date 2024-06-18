@@ -31,7 +31,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Polarized wave](#polarized-wave)
 5. [C1](#c1)
   * [Complex number arithmetic](#complex-number-arithmetic)
-  * [Complex trigonometric functions][#complex-trigonometric-functions]
+  * [Complex trigonometric functions](#complex-trigonometric-functions)
 
 
 ## R1
