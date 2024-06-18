@@ -31,6 +31,7 @@ Please, **rather bookmark this site than the desmos URLs** since the latter will
   * [Polarized wave](#polarized-wave)
 5. [C1](#c1)
   * [Complex number arithmetic](#complex-number-arithmetic)
+  * [Complex trigonometric functions][#complex-trigonometric-functions]
 
 
 ## R1
@@ -42,7 +43,7 @@ sin, arcsin, cos, arccos, tan, arctan, cot, arccot, sec, arcsec, csc, arccsc
 
 [https://www.desmos.com/calculator/5dms91pmgz](https://www.desmos.com/calculator/5dms91pmgz)
 
-![unit_circle](img/unit_circle.png)
+![screenshot unit_trig-functions](img/unit_circle.png)
 
 Angle sum identities:
 
@@ -62,7 +63,7 @@ Natural logarithm, Euler number, exponential function and LambertW-function of r
 
 [https://www.desmos.com/calculator/fknzali1gx](https://www.desmos.com/calculator/fknzali1gx)
 
-![ln exp](img/ln_exp.png)
+![screenshot nat. log, exp, W](img/ln_exp.png)
 
 ## R2
 
@@ -71,77 +72,77 @@ Adding and subtracting vectors.
 
 [https://www.desmos.com/calculator/blx95ejvti](https://www.desmos.com/calculator/blx95ejvti)
 
-![vector sum](img/vector_sum.png)
+![screenshot vector sum](img/vector_sum.png)
 
 ### Scalar multiplication
 Scaling vectors.
 
 [https://www.desmos.com/calculator/dnyvphayhr](https://www.desmos.com/calculator/dnyvphayhr)
 
-![scalar multiplication](img/scalar_mult.png)
+![screenshot scalar multiplication](img/scalar_mult.png)
 
 ### Inner product
 Dot product
 
 [https://www.desmos.com/calculator/7kxoinpssq](https://www.desmos.com/calculator/7kxoinpssq)
 
-![inner product](img/inner_product.png)
+![screenshot inner product](img/inner_product.png)
 
 ### Homogeneous coordinates
 Transformation to and from homogeneous coordinates, normalization and far points.
 
 [https://www.desmos.com/calculator/padkgx5uhb](https://www.desmos.com/calculator/padkgx5uhb)
 
-![homogeneous coordinates](img/homogen.png)
+![screenshot homogeneous coordinates](img/homogen.png)
 
 ### Line equations
 Line equation in standard form and derivation of parametric, slope-intercept, Hesse, polar and homogeneous coordinate forms.
   
 [https://www.desmos.com/calculator/si4r5rrtkl](https://www.desmos.com/calculator/si4r5rrtkl)
   
-![line equation standard form](img/line_standard_form.png)
+![screenshot line equation standard form](img/line_standard_form.png)
 
 ### Rotation
 Rotation of canonical base vectors, coordinates, and line equations.
 
 [https://www.desmos.com/calculator/9mxcidhljn](https://www.desmos.com/calculator/9mxcidhljn)
 
-![rotation 2D](img/rotation_2D.png)
+![screenshot rotation 2D](img/rotation_2D.png)
 
 ### Refraction
 Refraction and inner reflection of a ray of light at a plane surface between two homogeneous media.
 
 [https://www.desmos.com/calculator/gasu2wvno7](https://www.desmos.com/calculator/gasu2wvno7)
 
-![refraction](img/refraction.png)
+![screenshot refraction](img/refraction.png)
 
 ### Curvature
 Curvature and osculating circle of a continuously differentiable function.
 
 [https://www.desmos.com/calculator/91xdbwxaxv](https://www.desmos.com/calculator/91xdbwxaxv)
 
-![curvature](img/curvature.png)
+![screenshot curvature](img/curvature.png)
 
 ### Bezier curve
 De Castelau algorithm, Bernstein form, polynomial form, matrix form, derivatives and curvature of Bezier curves.
 
 [https://www.desmos.com/calculator/5mxwdei16h](https://www.desmos.com/calculator/5mxwdei16h)
 
-![bezier curve](img/cubicbezier.png)
+![screenshot bezier curve](img/cubicbezier.png)
 
 ### Hermite curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
 
 [https://www.desmos.com/calculator/ln1exvl9il](https://www.desmos.com/calculator/ln1exvl9il)
 
-![Hermite curve](img/hermite_spline.png)
+![screenshot Hermite curve](img/hermite_spline.png)
 
 ### Cardinal curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
 
 [https://www.desmos.com/calculator/06mclwqqur](https://www.desmos.com/calculator/06mclwqqur)
 
-![cardinal curve](img/cardinal_curve.png)
+![screenshot cardinal curve](img/cardinal_curve.png)
 
 ### Catmull-Rom curve
 Polynomial and matrix form, derivatives, curvature, osculating circle, quarter circle approximation.
@@ -149,14 +150,14 @@ Polynomial and matrix form, derivatives, curvature, osculating circle, quarter c
 
 [https://www.desmos.com/calculator/z9slwnkvle](https://www.desmos.com/calculator/z9slwnkvle)
 
-![Catmull-Rom curve](img/catmull-rom.png)
+![screenshot Catmull-Rom curve](img/catmull-rom.png)
 
 ### Rational Bezier curve
 Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous coordinate matrix form.
 
 [https://www.desmos.com/calculator/j3bnviwjqv](https://www.desmos.com/calculator/j3bnviwjqv)
 
-![rational Bezier curve](img/rational_bezier.png)
+![screenshot rational Bezier curve](img/rational_bezier.png)
 
 ## R3
 
@@ -165,7 +166,7 @@ Sinoidal wave in temporal, spatial and spatiotemporal representation
 
 [https://www.desmos.com/calculator/lowmmrrnk2](https://www.desmos.com/calculator/lowmmrrnk2)
 
-![sinoidal wave](img/sinoidalwave.png)
+![screenshot sinoidal wave](img/sinoidalwave.png)
 
 ## R4
 
@@ -174,21 +175,21 @@ Sinoidal oscillating membrane in canonical cross section views
 
 [https://www.desmos.com/calculator/piocwdyyo4](https://www.desmos.com/calculator/piocwdyyo4)
 
-![circular wave](img/circularwave.png)
+![screenshot circular wave](img/circularwave.png)
 
 ### Flat wave
 Sinoidal flat wave in canonical cross section views
 
 [https://www.desmos.com/calculator/f1faftq0mt](https://www.desmos.com/calculator/f1faftq0mt)
 
-![flat wave](img/flatwave.png)
+![screenshot flat wave](img/flatwave.png)
 
 ### Polarized wave
 Elliptical, circular and linear polarization of a sinoidal wave in cross section view
 
 [https://www.desmos.com/calculator/tcirqdnyt5](https://www.desmos.com/calculator/tcirqdnyt5)
 
-![polarized wave](img/polwave.png)
+![screenshot polarized wave](img/polwave.png)
 
 ## C1
 
@@ -196,7 +197,7 @@ Elliptical, circular and linear polarization of a sinoidal wave in cross section
 
 [https://www.desmos.com/calculator/kizjdicrvg](https://www.desmos.com/calculator/kizjdicrvg)
 
-![complex numbers](img/complex.png)
+![screenshot complex numbers](img/complex.png)
 
 ### Complex trigonometric functions
 
@@ -205,3 +206,6 @@ Sine, cosine, tangent, cotangent, secant, cosecant.
 Application to parametric line (grid), circle, and square.
 
 [https://www.desmos.com/calculator/kgsjcy7auy](https://www.desmos.com/calculator/kgsjcy7auy)
+
+
+![screenshot complex trig-functions](img/complexTrig.png)
