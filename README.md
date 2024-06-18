@@ -197,3 +197,11 @@ Elliptical, circular and linear polarization of a sinoidal wave in cross section
 [https://www.desmos.com/calculator/kizjdicrvg](https://www.desmos.com/calculator/kizjdicrvg)
 
 ![complex numbers](img/complex.png)
+
+### Complex trigonometric functions
+
+Trigonometric functions of complex values in the complex number plane:
+Sine, cosine, tangent, cotangent, secant, cosecant.
+Application to parametric line (grid), circle, and square.
+
+[https://www.desmos.com/calculator/kgsjcy7auy](https://www.desmos.com/calculator/kgsjcy7auy)
