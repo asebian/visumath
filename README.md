@@ -49,14 +49,20 @@ Angle sum identities:
 
 [https://www.desmos.com/calculator/qs0vt2ojbh](https://www.desmos.com/calculator/qs0vt2ojbh)
 
+![screenshot angle sum identities](img/trigSum.png)
+
 Angle difference identities:
 
 [https://www.desmos.com/calculator/plyunzieof](https://www.desmos.com/calculator/plyunzieof)
+
+![screenshot angle difference identities](img/trigDiff.png)
 
 ### Hyperbolic functions
 Hyperbolic sine, cosine, tangent and the unit hyperbola.
 
 [https://www.desmos.com/calculator/a6emttcq15](https://www.desmos.com/calculator/a6emttcq15)
+
+![screenshot hyperbolic functions](img/hyptrig.png)
 
 ### ln, e, exp, W
 Natural logarithm, Euler number, exponential function and LambertW-function of real values.
