@@ -211,7 +211,6 @@ Trigonometric functions of complex values in the complex number plane:
 Sine, cosine, tangent, cotangent, secant, cosecant.
 Application to parametric line (grid), circle, and square.
 
-[https://www.desmos.com/calculator/kgsjcy7auy](https://www.desmos.com/calculator/kgsjcy7auy)
-
+[https://www.desmos.com/calculator/nztgf6wjzu](https://www.desmos.com/calculator/nztgf6wjzu)
 
 ![screenshot complex trig-functions](img/complexTrig.png)
