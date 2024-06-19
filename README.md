@@ -60,7 +60,7 @@ Angle difference identities:
 ### Hyperbolic functions
 Hyperbolic sine, cosine, tangent and the unit hyperbola.
 
-[https://www.desmos.com/calculator/a6emttcq15](https://www.desmos.com/calculator/a6emttcq15)
+[https://www.desmos.com/calculator/bgqxibub4u](https://www.desmos.com/calculator/bgqxibub4u)
 
 ![screenshot hyperbolic functions](img/hyptrig.png)
 
