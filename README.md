@@ -201,7 +201,7 @@ Elliptical, circular and linear polarization of a sinoidal wave in cross section
 
 ### Complex number arithmetic
 
-[https://www.desmos.com/calculator/kizjdicrvg](https://www.desmos.com/calculator/kizjdicrvg)
+[https://www.desmos.com/calculator/mcsfaczjxr](https://www.desmos.com/calculator/mcsfaczjxr)
 
 ![screenshot complex numbers](img/complex.png)
 
