@@ -170,7 +170,7 @@ Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous
 ### Sinoidal wave
 Sinoidal wave in temporal, spatial and spatiotemporal representation
 
-<https://www.desmos.com/calculator/lowmmrrnk2>
+<https://www.desmos.com/calculator/lowmmrrnk2>  
 <https://www.geogebra.org/classic/mwypcp4a>
 
 ![screenshot sinoidal wave](img/sinoidalwave.png)
