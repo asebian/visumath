@@ -1,5 +1,5 @@
 # visumath
-A (growing) collection of educational math visualizations in desmos graphing calculator.
+A (growing) collection of educational math visualizations in desmos and geogebra graphing calculators.
 
 Please, **rather bookmark this site than the desmos URLs** since the latter will change on updates!
 
@@ -171,6 +171,7 @@ Circle, ellipse, parabola and hyperbola as rational Bezier curves in homogeneous
 Sinoidal wave in temporal, spatial and spatiotemporal representation
 
 <https://www.desmos.com/calculator/lowmmrrnk2>
+<https://www.geogebra.org/classic/mwypcp4a>
 
 ![screenshot sinoidal wave](img/sinoidalwave.png)
 
